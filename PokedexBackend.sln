@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokedexBackend", "PokedexBackend\PokedexBackend.csproj", "{52C9E344-55AC-43BF-A0C7-578E3C7E90F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C9E344-55AC-43BF-A0C7-578E3C7E90F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C9E344-55AC-43BF-A0C7-578E3C7E90F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C9E344-55AC-43BF-A0C7-578E3C7E90F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C9E344-55AC-43BF-A0C7-578E3C7E90F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AA4411A-EBA2-4209-BBF3-942BC7C2221D}
+	EndGlobalSection
+EndGlobal
